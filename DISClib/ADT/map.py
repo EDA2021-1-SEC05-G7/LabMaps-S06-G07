@@ -34,6 +34,7 @@ assert config
   (TAD) Map sin orden. Se puede implementar sobre una estructura
   de datos Hash Table, con resolución de colisiones: Linear Probing
   o separate chaining
+  
 """
 
 
